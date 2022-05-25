@@ -1,10 +1,15 @@
 {
-  "user" : 
+  "user" : [
       {
         "id" : 1,
         "firstName": "Quang",
         "lastName" : "Le"
-      }
-   
+      },
+     {
+        "id" : 2,
+        "firstName": "Bi",
+        "lastName" : "Nhi"
+      },
+   ]
 
 }
